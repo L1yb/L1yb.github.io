@@ -1,6 +1,13 @@
 ---
 title: move
 date: 2022/2/10 22:46:25
+update: 2022/2/16 22：18
+tags: 
+  - robocup
+  - c++
+categories:  
+  - c++
+cover:  https://gitee.com/l1yb/picgo/raw/master/cover/moonAnd.jpeg
 ---
 
 

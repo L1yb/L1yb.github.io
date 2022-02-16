@@ -1,6 +1,13 @@
 ---
-title: "CMake"
+title: "cmake基础用法"
 date: 2022/2/11 21:17
+tags: 
+    - cmake 
+    - c++
+    - learning
+categories: 
+    - cmake
+cover:  https://gitee.com/l1yb/picgo/raw/master/cover/1205309.jpg
 ---
 
 # CMake

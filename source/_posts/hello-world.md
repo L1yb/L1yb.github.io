@@ -1,8 +1,14 @@
 ---
 title: Hello World
+tags: 
+  - hexo
+  - learning
+categories: 
+  - Enrich
+cover: https://gitee.com/l1yb/picgo/raw/master/cover/1003736.jpg
+copyright_auther: L1yb
+copyright_info: 此文章版权归L1yb所有，如有转载，请註明来自原作者
 
-top_img: https://gitee.com/l1yb/picgo/raw/master/img/moonAnd.jpeg
-cover: https://gitee.com/l1yb/picgo/raw/master/img/moonAnd.jpeg
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
