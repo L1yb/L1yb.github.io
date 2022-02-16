@@ -1,7 +1,7 @@
 ---
 title: "NewBlog"
 date: 2022/2/11 21:17
-update: 2022/2/16 20:01
+update: 2022/2/16 23:24
 tags:  
   - hexo
   - learning
@@ -234,6 +234,11 @@ avatar:
   effect: false # 头像是否一直转
 ```
 
+**注意！！！**
+图片如果直接换行会报错，要在前面加个 `- url` 不报错了，但是照片不生效，所以不要随意换行，加个空格就行了
+
+
+
 ### 2.  顶部图：
 
 ```yaml
@@ -283,3 +288,10 @@ copyright_author_href: https://xxxxxx.com
 copyright_url: https://xxxxxx.com
 copyright_info: 此文章版权归xxxxx所有，如有转载，请註明来自原作者
 ```
+
+### 5. 侧边栏设置（部分）
+```yaml
+aside: 
+	position:left
+```
+

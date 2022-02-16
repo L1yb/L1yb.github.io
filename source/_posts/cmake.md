@@ -7,7 +7,7 @@ tags:
     - learning
 categories: 
     - cmake
-cover:  https://gitee.com/l1yb/picgo/raw/master/cover/1205309.jpg
+cover:  https://gitee.com/l1yb/picgo/raw/master/cover/blueBall_ys.jpg
 ---
 
 # CMake
