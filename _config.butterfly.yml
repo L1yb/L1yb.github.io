@@ -78,9 +78,8 @@ katex:
 favicon: /img/favicon.png
 
 # Avatar (頭像)
-avatar:
-  img: 
-  https://gitee.com/l1yb/picgo/raw/master/cover/moonAnd.jpeg
+avatar: 
+  img: https://gitee.com/l1yb/picgo/raw/master/cover/moonAnd.jpeg
   effect: false
 
 # Disable all banner image
